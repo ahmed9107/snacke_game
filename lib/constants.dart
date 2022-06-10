@@ -1,1 +1,0 @@
-enum snackeDirection {UP, DOWN, LEFT, RIGHT}
